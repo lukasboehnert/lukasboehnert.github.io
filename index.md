@@ -2,12 +2,7 @@
 layout: default
 description: Research website of Lukas Boehnert, economist working on international macroeconomics and macro-development.
 ---
-
-I am a Research Economist at the Bank of Portugal and a PhD candidate in Economics at the University of Oxford. My primary research interests are in international macro and macro-development.
-
-During my PhD, I was a [Summer Research Graduate in honour of Ivan Jaccard](https://www.ecb.europa.eu/pub/economic-research/programmes/graduate/html/index.en.html) at the European Central Bank, a visiting student at the Minneapolis Fed and a PhD intern at the International Monetary Fund. I also worked at the United Nations Development Programme for one year before commencing the PhD.
-
-If you have thoughts and suggestions on my research, do get in touch. I'd be happy to hear from you!
+I am a Research Economist at the Bank of Portugal and an Adjunct Assistant Professor at Católica Lisbon School of Business & Economics. I am also a Research Affiliate at CESifo and a member of the CUBE research unit at Católica Lisbon. My primary research interests are in international economics and macro-development.
 
 ## Working Papers
 
