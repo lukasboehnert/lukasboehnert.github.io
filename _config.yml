@@ -1,0 +1,20 @@
+# Site settings. GitHub Pages rebuilds the site automatically on every push.
+theme: jekyll-theme-minimal
+
+title: Lukas Boehnert
+logo: /photo.jpg
+
+# Text shown in the left column under the photo (HTML allowed).
+description: >-
+  Research Economist<br>
+  Bank of Portugal<br><br>
+  PhD Candidate in Economics<br>
+  University of Oxford<br><br>
+  <a href="/CV_Lukas_Boehnert.pdf">CV</a><br>
+  <a href="mailto:lukas.boehnert@economics.ox.ac.uk">Email</a> |
+  <a href="https://twitter.com/luk_boe">Twitter</a> |
+  <a href="https://www.linkedin.com/in/lukas-b%C3%B6hnert/">LinkedIn</a>
+
+# Files in the repository that should not be published.
+exclude:
+  - README.md
