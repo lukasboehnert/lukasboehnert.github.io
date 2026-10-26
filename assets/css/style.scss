@@ -25,6 +25,14 @@ header a.btn {
 }
 header a.btn:hover { background: #e8e8e8; color: #267CB9; text-decoration: none; }
 
+/* PDF viewer on the CV page */
+iframe.cv {
+  width: 100%;
+  height: 85vh;
+  margin-top: 1em;
+  border: 1px solid #e5e5e5;
+}
+
 /* The theme pins the footer to the bottom of the window; hide it on short
    screens so it doesn't overlap the left column */
 @media screen and (min-width: 961px) and (max-height: 760px) {
