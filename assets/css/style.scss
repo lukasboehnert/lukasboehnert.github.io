@@ -9,6 +9,28 @@ header p.view { display: none; }          /* hide "View My GitHub Profile" */
 
 header img { border-radius: 4px; }
 
+/* CV / Teaching buttons in the left column */
+header a.btn {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 132px;               /* two buttons side by side in the 270px column */
+  margin-top: 4px;
+  padding: 8px 0;
+  text-align: center;
+  font-weight: bold;
+  color: #222;
+  background: #f4f4f4;
+  border: 1px solid #e0e0e0;
+  border-radius: 5px;
+}
+header a.btn:hover { background: #e8e8e8; color: #267CB9; text-decoration: none; }
+
+/* The theme pins the footer to the bottom of the window; hide it on short
+   screens so it doesn't overlap the left column */
+@media screen and (min-width: 961px) and (max-height: 760px) {
+  footer { display: none; }
+}
+
 section h2 {
   font-size: 1.3em;
   margin-top: 2em;
