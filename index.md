@@ -2,7 +2,7 @@
 layout: default
 description: Research website of Lukas Boehnert, economist working on international macroeconomics and macro-development.
 ---
-I am a Research Economist at the Bank of Portugal and an Adjunct Assistant Professor at Católica Lisbon School of Business & Economics. I am also a Research Affiliate at CESifo and a member of the CUBE research unit at Católica Lisbon. My primary research interests are in international economics and macro-development.
+I am a Research Economist at the Bank of Portugal and an Adjunct Assistant Professor at Católica Lisbon School of Business & Economics. I am also a CESifo Research Affiliate and a member of the CUBE research unit at Católica Lisbon. My primary research interests are in international economics and macro-development.
 
 ## Working Papers
 
