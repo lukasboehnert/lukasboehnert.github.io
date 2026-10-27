@@ -14,13 +14,13 @@ header img { border-radius: 4px; width: 200px; }
   header img { width: 140px; }
 }
 
-/* CV / Teaching buttons in the left column */
+/* Research / CV / Teaching buttons in the left column, stacked */
 header a.btn {
-  display: inline-block;
+  display: block;
   box-sizing: border-box;
-  width: 86px;                /* three buttons side by side in the 270px column */
-  margin-top: 4px;
-  padding: 8px 0;
+  width: 200px;               /* same width as the photo */
+  margin-top: 6px;
+  padding: 7px 0;
   text-align: center;
   font-weight: bold;
   color: #222;
