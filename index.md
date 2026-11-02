@@ -10,7 +10,7 @@ I am a Research Economist at the Bank of Portugal and an Adjunct Assistant Profe
 
 <div class="paper" markdown="1">
 **[The Regional Specialization Trade-off](/JMP_LBoehnert.pdf)** <br>
-[[CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12798.pdf)] [[JMP Version](/JMP_LBoehnert.pdf)] *Submitted*<br>
+[[CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12798.pdf)] [[JMP Version](/JMP_LBoehnert.pdf)] *(Submitted)*<br>
 *Finalist: 2026 Distinguished CESifo Affiliate Award*
 
 <details>
@@ -22,7 +22,7 @@ In 1950, highly specialized U.S. regions had higher per capita incomes than thos
 <div class="paper" markdown="1">
 **[Monetary Policy in Currency Unions with Unequal Countries](https://cepr.org/publications/dp19872)**<br>
 with [Sergio De Ferra](https://www.sergiodeferra.com/), [Kurt Mitman](http://www.kurtmitman.com/) and [Federica Romei](https://sites.google.com/site/romeifederica/)<br>
-[[CEPR Working Paper](https://cepr.org/publications/dp19872)] *Submitted*
+[[CEPR Working Paper](https://cepr.org/publications/dp19872)] *(Submitted)*
 
 <details>
 <summary>Abstract</summary>
