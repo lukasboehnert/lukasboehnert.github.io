@@ -10,7 +10,7 @@ I am a Research Economist at the Bank of Portugal and an Adjunct Assistant Profe
 
 <div class="paper" markdown="1">
 **[The Regional Specialization Trade-off](/JMP_LBoehnert.pdf)** <br>
-[[CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12798.pdf)] [[JMP Version](/JMP_LBoehnert.pdf)]<br>
+[[CESifo Working Paper](https://www.ifo.de/DocDL/cesifo1_wp12798.pdf)] [[JMP Version](/JMP_LBoehnert.pdf)] *Submitted*<br>
 *Finalist: 2026 Distinguished CESifo Affiliate Award*
 
 <details>
