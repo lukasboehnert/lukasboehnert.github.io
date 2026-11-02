@@ -43,7 +43,7 @@ Limiting climate change requires a 80 percent reduction in fossil fuel extractio
 
 ## Work in Progress
 
-- Macroeconomic Priorities in Industrial (Counter)-Policies (with [Moritz May](https://moritz-may.com))
+- Macroeconomic Priorities in Industrial (Counter)-Policies<br>(with [Moritz May](https://moritz-may.com))
 - Immigration and Firm Hierarchies (with [Chenchuan Shi](https://sites.google.com/view/chenchuan-shi))
 - Regional Specialization and National Misallocation
 <!-- - Inequality and Firm Entry: Does the Cycle Drive the Trend(s)? -->
